@@ -1,6 +1,6 @@
 # About
 
-[TextUtils](https://awesome-agnesi-854de6.netlify.app/) is a utility app which can manipulate your text in various ways like converting into Uppercase, lowercase or clearing the entire text area or copying the text. It also shows the requird time for a reader to read the entire text and has a preview pane to preview the entered text.
+[TextUtils](https://text-utils-pro.netlify.app/) is a utility app which can manipulate your text in various ways like converting into Uppercase, lowercase or clearing the entire text area or copying the text. It also shows the requird time for a reader to read the entire text and has a preview pane to preview the entered text.
 
 
 ## Scripts to run the app
